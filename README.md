@@ -15,5 +15,5 @@ The source code is released under [Apache 2.0](https://aws.amazon.com/apache-2-0
 
 
 ## Resources
-* [DeepRacer Environment Config](https://github.com/aws-deepracer/deepracer-env-config)
-* [Unified Distributed Environment](https://github.com/aws-deepracer/ude)
+* [DeepRacer Environment Config](https://github.com/juhgiyo/deepracer-env-config)
+* [Unified Distributed Environment](https://github.com/juhgiyo/ude)
